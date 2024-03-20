@@ -1,0 +1,20 @@
+.container{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(128, 128, 128, 0.397);
+    color: black;
+    border-radius: 10px;
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
